@@ -17,10 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/iness.elahchaichi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iness.elahchaichi" height="30" width="40" /></a>
-<a href="https://kaggle.com/iness.elahchaichi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iness.elahchaichi" height="30" width="40" /></a>
-<a href="https://fb.com/iness.elahchaichi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iness.elahchaichi" height="30" width="40" /></a>
-<a href="https://instagram.com/iness.elahchaichi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iness.elahchaichi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nadinemahfoudh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadine.mahfoudhi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
